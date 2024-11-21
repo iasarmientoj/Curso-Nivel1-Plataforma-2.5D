@@ -20,3 +20,6 @@ Este repositorio reúne los recursos y materiales para un curso práctico enfoca
 
 ### Objetivo:  
 Al finalizar, los participantes habrán desarrollado un prototipo funcional de un juego de plataformas en Unity, aprendiendo los pasos clave de diseño y desarrollo.
+
+
+![menu](/Plataforma-2.5D-2017/Assets/Scenes/miniaturas/menu.png "menu")
