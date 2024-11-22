@@ -516,7 +516,7 @@ public class PlayerMovement16 : MonoBehaviour
     {
         WallCol();
         IsGrounded();
-        BumpedHead();
+        //BumpedHead();
     }
 
     #endregion
