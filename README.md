@@ -26,4 +26,4 @@ Al finalizar, los participantes habrán desarrollado un prototipo funcional de u
 
 ![juego](/Plataforma-2.5D-2017/Assets/Scenes/miniaturas/juego.png "juego")
 
-[![Curso-Nivel1-Plataforma-2.5D](/Plataforma-2.5D-2017/Assets/Scenes/miniaturas/juegoyt.jpg)](https://youtu.be/cGei1P7qAZ4)
+[![Build a 2.5D Platformer Game Prototype with Unity](/Plataforma-2.5D-2017/Assets/Scenes/miniaturas/juegoyt.jpg)](https://youtu.be/cGei1P7qAZ4)
