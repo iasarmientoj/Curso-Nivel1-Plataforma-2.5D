@@ -22,6 +22,8 @@ Este repositorio reúne los recursos y materiales para un curso práctico enfoca
 Al finalizar, los participantes habrán desarrollado un prototipo funcional de un juego de plataformas en Unity, aprendiendo los pasos clave de diseño y desarrollo.
 
 
+### Resultados: 
+
 ![menu](/Plataforma-2.5D-2017/Assets/Scenes/miniaturas/menu.png "menu")
 
 ![juego](/Plataforma-2.5D-2017/Assets/Scenes/miniaturas/juego.png "juego")
