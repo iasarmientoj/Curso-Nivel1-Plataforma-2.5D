@@ -23,3 +23,7 @@ Al finalizar, los participantes habrán desarrollado un prototipo funcional de u
 
 
 ![menu](/Plataforma-2.5D-2017/Assets/Scenes/miniaturas/menu.png "menu")
+
+![juego](/Plataforma-2.5D-2017/Assets/Scenes/miniaturas/juego.png "juego")
+
+[![Curso-Nivel1-Plataforma-2.5D](/CME/Assets/Scenes/miniaturas/juegoyt.jpg)](https://youtu.be/cGei1P7qAZ4)
